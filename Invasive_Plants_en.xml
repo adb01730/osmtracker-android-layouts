@@ -1,0 +1,35 @@
+<!--Layout cribbed from osmtracker examples-->
+
+<layouts>
+	
+	<!--Main Button Layout-->
+	<layout name="root">
+		<!--Special action Buttons -->
+		<row>
+			<button type="picture" icon="logo_camera"/>
+			<button type="textnote" icon="logo_textnote"/>
+		</row>
+		<!--Invasive Species Name Buttons ROW 2 -->
+		<row>
+			<button type="tag" label="Glossy Buckthorn"/>
+			<button type="tag" label="Multiflora Rose"/>
+			<button type="tag" label="Garlic Mustard"/>
+		</row>
+		<!--Invasive Species Name Buttons  Row 3-->
+		<row>
+			<button type="tag" label="Oriental BitterSweet"/>
+			<button type="tag" label="Autumn Olive"/>
+			<button type="tag" label="Common Reed"/>
+		</row>		
+		<!-- Invasive Species Name Buttons Row 4-->
+		<row>
+			<button type="tag" label="Bush Honeysuckle"/>
+			<button type="tag" label="Winged Euonymus"/>
+			<button type="tag" label="Yellow Iris"/>
+			<button type="tag" label="Swallow-Wort/>
+		</row>	
+		</layout>
+	
+	
+
+</layouts>
